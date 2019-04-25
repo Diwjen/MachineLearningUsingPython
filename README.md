@@ -1,2 +1,2 @@
 # MachineLearningUsingPython
-![image.png](images/Machine-Learning-AI-Deep-Learning-Training-1.jpg)
+![image.jpg](images/Machine-Learning-AI-Deep-Learning-Training-1.jpg)
