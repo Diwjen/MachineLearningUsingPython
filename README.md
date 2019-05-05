@@ -16,14 +16,14 @@ Machine learning is the ability of a computer system to learn from the environme
 
 Machine learning algorithms are used in a wide variety of applications, such as email filtering, computer vision, credit-card fraud detection, recommendation engines, sentiment analysis, etc. 
 
-![image.jpg](Images/machine-learning.png)
+![image.jpg](Images/Artifical-int.jpg)
 
 
 ## What is Artificial Intelligence (AI)?
 
 Artificial intelligence refers to the simulation of a human brain function by machines. This is achieved by creating an artificial neural network that can show human intelligence. The primary human functions that an AI machine performs include logical reasoning, learning and self-correction. Artificial intelligence is a wide field with many applications but it also one of the most complicated technology to work on. Machines inherently are not smart and to make them so, we need a lot of computing power and data to empower them to simulate human thinking. 
 
-![image.jpg](Images/Machine-Learning-AI-Deep-Learning-Training-1.jpg)
+![image.jpg](Images/data-science-ai_ml.jpg)
 
 The Difference between Artificial Intelligence, Machine Learning and Data Science:
 
